@@ -1,7 +1,7 @@
-#ANDROID MASTER INTERMEDIO
+# ANDROID MASTER INTERMEDIO
 
 
-##Curso intermedio
+## Curso intermedio
 
 El temario
 <br/>
@@ -12,4 +12,4 @@ El temario
 - Diseno avanzada
 - Testing
 
-*Temario en proceso, se adaptara a las peticiones
+*Temario en proceso, se adaptara a las peticiones*
